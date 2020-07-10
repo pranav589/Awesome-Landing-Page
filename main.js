@@ -59,7 +59,7 @@ function setBgGreet() {
 
     greeting.textContent = 'Good Afternoon'
   } else { //if its night
-    document.body.style.backgroundImage = "url('high-rise-buildings-during-night-time-photo-219692.jpg')";
+    document.body.style.backgroundImage = "url('milky-way-illustration-1169754.jpg')";
 
     greeting.textContent = 'Good Evening';
 
